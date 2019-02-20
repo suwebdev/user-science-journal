@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Clean Blog v5.0.2 (https://startbootstrap.com/template-overviews/clean-blog)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
  */
 
@@ -197,16 +197,8 @@ header.masthead .overlay {
 header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
-  padding: 200px 0 150px;
+  padding: 0 0 30px;
   color: white;
-}
-
-@media only screen and (min-width: 768px) {
-  header.masthead .page-heading,
-  header.masthead .post-heading,
-  header.masthead .site-heading {
-    padding: 200px 0;
-  }
 }
 
 header.masthead .page-heading,
